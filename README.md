@@ -50,4 +50,4 @@ Copy this code on misskey theme editor :
 
 ## Screenshot
 
-![Discord theme](misskey-discord-theme-01.png)
+![Discord theme](misskey-discord-theme.png)
