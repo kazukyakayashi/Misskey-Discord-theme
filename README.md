@@ -38,7 +38,7 @@ Copy this code on misskey theme editor :
 }
 ```
 
-## In Stylus
+## In Stylus or Misskey CSS editor
 
 ```
 /* bg for link preview */
